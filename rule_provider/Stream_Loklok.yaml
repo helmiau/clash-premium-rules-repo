@@ -1,0 +1,9 @@
+# Sources:
+# - loklok.video
+payload:
+  # Base URL's
+  - DOMAIN-SUFFIX,loklok.video
+  - DOMAIN,akm-cdn-play.loklok.video
+  - DOMAIN,img.netpop.app
+  - DOMAIN,ugc.netpop.app
+  - DOMAIN,subtitles.netpop.app

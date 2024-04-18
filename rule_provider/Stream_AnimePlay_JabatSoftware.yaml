@@ -1,0 +1,6 @@
+# Sources:
+# - https://play.google.com/store/apps/details?id=dev.animeplay.app&hl=id
+payload:
+  # Base URL's
+  - DOMAIN,space.animeplay.dev
+  - DOMAIN,s3.nevaobjects.id

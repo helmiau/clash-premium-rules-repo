@@ -1,0 +1,9 @@
+# Sources:
+# - https://play.google.com/store/apps/details?id=com.kimchilabs.ngedrakor&hl=id
+payload:
+  # Base URL's
+  - DOMAIN,dashdrakor.my.id
+  - DOMAIN,drakor.stream-api.my.id
+  - DOMAIN,dummy.dashdrakor.my.id
+  - DOMAIN,'s*vlx.storage.yandex.net'
+  - DOMAIN,'rapidseedbox*-secure.supreme-*.seedbox.vip'

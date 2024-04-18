@@ -1,0 +1,6 @@
+# Sources:
+# - https://play.google.com/store/apps/details?id=com.anichin.donghub&hl=id
+payload:
+  # Base URL's
+  - DOMAIN,apimu.donghub.net
+  - DOMAIN,dbmu.donghub.net
