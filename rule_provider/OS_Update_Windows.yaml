@@ -1,3 +1,4 @@
 # Facebook
 payload:
   - DOMAIN-SUFFIX,tlu.dl.delivery.mp.microsoft.com
+  - DOMAIN-SUFFIX,download.windowsupdate.com
