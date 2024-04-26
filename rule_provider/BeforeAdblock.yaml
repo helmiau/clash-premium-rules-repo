@@ -24,6 +24,7 @@ payload:
   - DOMAIN-KEYWORD,revanced
   - DOMAIN-SUFFIX,dlupload.com
   - DOMAIN-SUFFIX,pixeldrain.com
+  - DOMAIN-SUFFIX,shopee.co.id
   
   # Tokopedia
   - DOMAIN,tokopedia.app.link
