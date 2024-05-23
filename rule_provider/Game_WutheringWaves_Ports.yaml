@@ -1,2 +1,14 @@
 payload:
   - DST-PORT,13812 #UDP, SEA server
+  - DST-PORT,21909 #UDP Login, SEA server
+  #- DOMAIN,e-sg.aki-game.net #Domain in game
+  
+  #Android Data v1.0 port 443
+  #- DOMAIN,cdn-qcloud-hw-mc.aki-game.net #gamedata
+  #- DOMAIN,cdn-aws-hw-mc.aki-game.net #gamedata
+  #- DOMAIN,qcloud-sg-datareceiver.kurogame.xyz
+  #- DOMAIN,sdkapi.kurogame-service.com:443
+  
+  #Android Data v1.0 port 80
+  #- DOMAIN,us-datareceiver.aki-game.net
+  
