@@ -1,6 +1,7 @@
 payload:
   - DST-PORT,13812 #UDP, SEA server
   - DST-PORT,21909 #UDP Login, SEA server Android
+  - DST-PORT,20109
   #- DOMAIN,e-sg.aki-game.net #Domain in game
   
   #Android Data v1.0 port 443
@@ -11,4 +12,5 @@ payload:
   
   #Android Data v1.0 port 80
   #- DOMAIN,us-datareceiver.aki-game.net
+  #- DOMAIN,as-datareceiver.aki-game.net
   
