@@ -37,6 +37,7 @@ payload:
   - DOMAIN,kr.bignox.com 
   - DOMAIN,launcher-us.yeshen.com 
   - DOMAIN,launcher.us.yeshen.com 
+  - DOMAIN,launcher-api.bignox.com
   - DOMAIN,log.bignox.com 
   - DOMAIN,mail.bignox.com 
   - DOMAIN,mis.bignox.com 
