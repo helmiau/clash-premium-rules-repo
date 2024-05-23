@@ -136,3 +136,8 @@ payload:
   - DOMAIN-KEYWORD,ads-api.tiktok.com
   - DOMAIN-KEYWORD,business-api.tiktok.com
   - DOMAIN-KEYWORD,amazonaax.com
+  #MLBB, NOX, Tiktok test Ads Logging
+  - DOMAIN,gsdk-va.bytegsdk.com
+  - DOMAIN,log-va.bytegsdk.com
+  - DOMAIN,gplog-sg.byteoversea.com
+  - DOMAIN,pcmactivity.chinacloudsites.cn
