@@ -2,6 +2,9 @@
 payload:
   # TCP
   - DST-PORT,5692
+  - DST-PORT,6653
+  - DST-PORT,6654
+  - DST-PORT,6655
   - DST-PORT,6656
   - DST-PORT,6657
   - DST-PORT,8085
