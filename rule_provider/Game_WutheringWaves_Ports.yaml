@@ -1,6 +1,7 @@
 #Wuthering Waves Ports and Domains 1.0.0 by Helmi Amirudin
 payload:
   #UDP, SEA server in game port
+  #- DST-PORT,7506
   - DST-PORT,11003
   - DST-PORT,11004
   - DST-PORT,11005
@@ -10910,15 +10911,17 @@ payload:
   - DST-PORT,21909
   - DOMAIN,e-sg.aki-game.net #Domain in game, used with ports usually
   
-  #Android Data v1.0 port 443
+  # Android Data v1.0 port 443
   #- DOMAIN,cdn-qcloud-hw-mc.aki-game.net #gamedata
-  #- DOMAIN,cdn-aws-hw-mc.aki-game.net #gamedata
+  #- DOMAIN,cdn-aws-hw-mc.aki-game.net #gamedata android, pc
   #- DOMAIN,qcloud-sg-datareceiver.kurogame.xyz
-  #- DOMAIN,cdn-aws-hw-mc.aki-game.net
   #- DOMAIN,gar-service.aki-game.net
   #- DOMAIN,aki-gm-resources-back.aki-game.net
   #- DOMAIN,android.crashsight.wetest.net
   
+  # PC Download
+  #- DOMAIN,hw-pcdownload-cf.aki-game.net
+
   # Login Screen
   #- DOMAIN,us-datareceiver.aki-game.net
   #- DOMAIN,as-datareceiver.aki-game.net
@@ -10928,5 +10931,7 @@ payload:
   #- DOMAIN,link-sg.yunxinfw.com
   #- DOMAIN,gar-service.aki-game.net
   #- DOMAIN,login-sg.aki-game.net
+  #- DOMAIN,glcs.listdl.com #pinger or debugger download patch in-game screen
+  #- DOMAIN,tqos-yun.listdl.com #pinger or debugger download patch in-game screen
   
   
