@@ -6,6 +6,8 @@ payload:
   - DST-PORT,8500
   - DST-PORT,10000
   #- DST-PORT,10018
+  #- DST-PORT,10046
+  #- DST-PORT,10053
   #- DST-PORT,10064
   - DST-PORT,10082
   #- DST-PORT,12346
@@ -30,3 +32,6 @@ payload:
   - DST-PORT,8011
   - DST-PORT,8700
   - DST-PORT,30000
+  
+  #- DOMAIN-SUFFIX,cloud-control.sgameglobal.com
+  #- DOMAIN-SUFFIX,zga.globalconnetct.com
