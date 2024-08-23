@@ -26,6 +26,7 @@ payload:
   - DOMAIN-SUFFIX,pixeldrain.com
   - DOMAIN-SUFFIX,shopee.co.id
   - DOMAIN-SUFFIX,production.nuds.frostgate.studio
+  - DOMAIN-SUFFIX,intergram.xyz
   
   # Tokopedia
   - DOMAIN,tokopedia.app.link
