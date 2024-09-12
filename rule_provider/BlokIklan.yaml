@@ -122,6 +122,14 @@ payload:
   - DOMAIN-KEYWORD,388hero178
   - DOMAIN-SUFFIX,bwsgmm.com
   - DOMAIN-KEYWORD,388hero
+  #- DOMAIN-SUFFIX,rocketcdn.me
+  - DOMAIN-KEYWORD,vpn89.site
+  - DOMAIN-KEYWORD,vpnnawala.site
+  - DOMAIN,d3b997ce.rocketcdn.me
+  - DOMAIN-KEYWORD,kaya303-dana
+  - DOMAIN-KEYWORD,gaza88
+  - IP-CIDR,137.175.92.53/16
+  - IP-CIDR,154.39.158.65/16
   #d3ward.github.io
   - DOMAIN-KEYWORD,adtago.s3.amazonaws.com
   - DOMAIN-KEYWORD,advice-ads.s3.amazonaws.com
